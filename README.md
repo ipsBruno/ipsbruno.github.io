@@ -1,20 +1,5 @@
-<!DOCTYPE html>
-  <!--[if IEMobile 7]><html class="no-js ie iem7" lang="it" dir="ltr"><![endif]-->
-  <!--[if lte IE 6]><html class="no-js ie lt-ie9 lt-ie8 lt-ie7" lang="it" dir="ltr"><![endif]-->
-  <!--[if (IE 7)&(!IEMobile)]><html class="no-js ie lt-ie9 lt-ie8" lang="it" dir="ltr"><![endif]-->
-  <!--[if IE 8]><html class="no-js ie lt-ie9" lang="it" dir="ltr"><![endif]-->
-  <!--[if (gte IE 9)|(gt IEMobile 7)]><html class="no-js ie" lang="it" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema# schema: http://schema.org/"><![endif]-->
-  <!--[if !IE]><!-->
-    <!-- TASK000017046885 change lang for html lang -->
-    		  <html class="no-js" >
-	  <!--<![endif]-->
 
-
-<head>
-  <title>Privacy Policy | Alexa</title>
-<h1>Privacy Policy for Alexa Skills</h1>
-</head>
-<body
+<body>
 <p>
 This privacy policy describes how AlexaSinonimosAntonimos (Bruno Silva) ("AlexaSinonimosAntonimos", "us" or "we") protects your ("you", "the user") privacy and your data. Before using any of our Alexa Skills ("our skills"), please read this policy and our Alexa Skills Terms of Use, as well as the Alexa Terms of Use and the Privacy Policies by the Amazon Digital Services LLC (with its affiliates, "Amazon").
 </p>
